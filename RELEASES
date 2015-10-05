@@ -1,0 +1,59 @@
+==============================================================================
+
+Team Members: Jess, Evelina, Andrew, Thomas
+
+==============================================================================
+
+Week of 9/06
+
+Project status summary:
+
+    * Successfully set up repository.
+    * Added test cases successfully.
+    * Started working on parse.c
+    * Started working on main.c
+
+Contribution summary:
+
+    * Andrew successfully set up the project repository.
+    * Andrew, Eve, Jess, and Thomas all worked together to get the test files.
+    * The team split up: Thomas and Jess started working on multisort,
+	Eve and Andrew started working on mandel.
+    * Andrew and Eve went to office hours for miscellaneous questions.
+    * Thomas and Jess edited the main and parse files to read in according to old 350 PA.
+
+Questions and issues:
+
+Are we reading in the files the same way as we did for the previous semester? Is the
+unithreaded code working properly or will we have to finish/modify it before starting
+on multithread?
+
+==============================================================================
+
+Week of 9/13
+
+Project status summary:
+
+    * Started running the files to test parse.
+    * Fixes to how we parse in the file.
+    * Correctly producing the .tga files.
+    * Mandelbrot correctly working in unithread.
+    * Multisort correctly printing and sorting in unithread.
+    * Currently (10 PM, 09.20.15) working on writing mergesort results.
+
+Contribution summary:
+
+    * Andrew visited office hours for merge sort.
+    * Eve visited office hours for parse and mandelbrot.
+    * Andrew successfully started mergesort, and drew out several plans for multithread.
+    * Eve started the mandelbrot files and created the necessary variables
+	and populated the arrays.
+    * Jess correctly modified the parse method to get in the exact data we need.
+    * Jess found the source of several segfaults and corrected all of them.
+    * Thomas worked on mandel and tga to produce every correct image.
+    * Thomas added the bit manipulation to dynamically adjust the resolution of the TGA.
+    * The team collaboratively worked together to multithread the code.
+
+Questions and issues:
+
+Currently attempting to finish the project by the deadline.
